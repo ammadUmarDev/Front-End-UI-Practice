@@ -1,3 +1,3 @@
 # Front-End-UI-Practice
 
-Learn Front End Development
+Learn basic Web Development - Pre Full Stack Specialization
